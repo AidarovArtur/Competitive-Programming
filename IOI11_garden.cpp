@@ -1,5 +1,5 @@
 /*
-ребра как вершины
+ребра как вершины //
 */
 #include "garden.h"
 #include "gardenlib.h"
